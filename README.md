@@ -1,5 +1,5 @@
 # GCN-Align
-修改。。。
+
 Code of the paper: ***Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks***.
 
 **A better implementation can be seen at [HIN-Align](https://github.com/1049451037/HIN-Align).**
